@@ -1,0 +1,149 @@
+<|en|>
+Hello.
+<|fr|>
+Bonjour.
+<|end|>
+
+<|en|>
+How are you?
+<|fr|>
+Comment ça va ?
+<|end|>
+
+<|en|>
+I am fine, thank you.
+<|fr|>
+Je vais bien, merci.
+<|end|>
+
+<|en|>
+What is your name?
+<|fr|>
+Comment tu t'appelles ?
+<|end|>
+
+<|en|>
+My name is John.
+<|fr|>
+Je m'appelle John.
+<|end|>
+
+<|en|>
+Where is the train station?
+<|fr|>
+Où est la gare ?
+<|end|>
+
+<|en|>
+I like apples.
+<|fr|>
+J'aime les pommes.
+<|end|>
+
+<|en|>
+She loves music.
+<|fr|>
+Elle adore la musique.
+<|end|>
+
+<|en|>
+We are going to school.
+<|fr|>
+Nous allons à l'école.
+<|end|>
+
+<|en|>
+They are eating dinner.
+<|fr|>
+Ils dînent.
+<|end|>
+
+<|en|>
+I do not understand.
+<|fr|>
+Je ne comprends pas.
+<|end|>
+
+<|en|>
+Can you help me?
+<|fr|>
+Peux-tu m'aider ?
+<|end|>
+
+<|en|>
+I am looking for a hotel.
+<|fr|>
+Je cherche un hôtel.
+<|end|>
+
+<|en|>
+This city is very beautiful.
+<|fr|>
+Cette ville est très belle.
+<|end|>
+
+<|en|>
+What time is it?
+<|fr|>
+Quelle heure est-il ?
+<|end|>
+
+<|en|>
+I would like some water.
+<|fr|>
+Je voudrais de l'eau.
+<|end|>
+
+<|en|>
+Do you speak English?
+<|fr|>
+Parlez-vous anglais ?
+<|end|>
+
+<|en|>
+I am learning French.
+<|fr|>
+J'apprends le français.
+<|end|>
+
+<|en|>
+The weather is nice today.
+<|fr|>
+Il fait beau aujourd'hui.
+<|end|>
+
+<|en|>
+See you tomorrow.
+<|fr|>
+À demain.
+<|end|>
+
+<|en|>
+Good night and sweet dreams.
+<|fr|>
+Bonne nuit et fais de beaux rêves.
+<|end|>
+
+<|en|>
+Why are you late?
+<|fr|>
+Pourquoi es-tu en retard ?
+<|end|>
+
+<|en|>
+I forgot my keys at home.
+<|fr|>
+J'ai oublié mes clés à la maison.
+<|end|>
+
+<|en|>
+This book is very interesting.
+<|fr|>
+Ce livre est très intéressant.
+<|end|>
+
+<|en|>
+We need to leave now.
+<|fr|>
+Nous devons partir maintenant.
+<|end|>
